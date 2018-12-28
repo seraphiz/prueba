@@ -4,11 +4,14 @@
   z-index: 5215323215312;
 }
 
-.somos, .objetivos, .aporte{
+.noticias{
+  text-align: center
 
 }
 
-
+.espacio{
+  height: 20px;
+}
 
 
 .caja{
@@ -26,6 +29,7 @@
 
 .info{
   text-align: center;
+  padding-top: 10px;
 }
 
 .cont1{
